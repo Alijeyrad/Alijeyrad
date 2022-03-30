@@ -1,6 +1,6 @@
 - Hi, I’m @Alijeyrad
 - I’m interested in coding but I just started learning
-- I’m currently learning python
+- I’m currently learning python and JavaScript
 - How to reach me: alijeyrad@gmail.com
 
 <!---
