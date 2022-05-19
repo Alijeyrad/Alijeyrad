@@ -1,6 +1,5 @@
-- Hi, I’m @Alijeyrad
-- I’m interested in coding but I just started learning
-- I’m currently learning python and JavaScript
+- Hi, I’m Ali
+- I’m trying to become a front-end developer, but that doesn't mean I don't like back-and stuff :)
 - How to reach me: alijeyrad@gmail.com
 
 <!---
