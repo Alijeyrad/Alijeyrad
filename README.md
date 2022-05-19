@@ -1,5 +1,5 @@
 - Hi, I’m Ali
-- I’m trying to become a front-end developer, but that doesn't mean I don't like back-and stuff :)
+- I’m trying to become a front-end developer
 - How to reach me: alijeyrad@gmail.com
 
 <!---
