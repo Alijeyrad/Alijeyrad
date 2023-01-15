@@ -1,5 +1,5 @@
 - Hi, I’m Ali
-- I’m trying to become a front-end developer
+- I’m a Web Developer
 - How to reach me: alijeyrad@gmail.com
 
 <!---
