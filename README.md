@@ -1,6 +1,6 @@
 - Hi, I’m Ali
 - I’m a Web Developer
-- How to reach me: alijeyrad@gmail.com
+- How to reach me: alijrad.dev@gmail.com
 
 <!---
 Alijeyrad/Alijeyrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
