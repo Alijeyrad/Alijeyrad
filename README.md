@@ -3,7 +3,7 @@ Hey there! 👋 I'm passionate about Full-Stack development:
 - 🌐 **Backend:** Django, Django Rest Framework, PostgreSQL, MongoDB
 - 💻 **Frontend:** React, Next.js, TypeScript, Redux Toolkit
 - 🎨 **Styling:** SASS, Tailwind, Bootstrap, Material UI, CSS in JS
-- 🧰 **Othet Tools:** NPM, Git, GitHub, Docker, Redux
+- 🧰 **Other Tools:** NPM, Git, GitHub, Docker, Redux
 
 Let's build the future of the web together! 😎✌🏻
 
