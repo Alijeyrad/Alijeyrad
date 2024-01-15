@@ -27,7 +27,7 @@ Let's build the future of the web together! 😎✌🏻
   <a target="_blank" href="mailto:alijrad.dev@gmail.com">
     <img src="https://github.com/Alijeyrad/Alijeyrad/assets/89392975/9c6409d3-9c46-4de5-bedb-93123b7f4ad3" width="40" height="40" />
   </a>
-  <a target="_blank" href="www.linkedin.com/in/ali-julaee-rad">
+  <a target="_blank" href="https://linkedin.com/in/ali-julaee-rad">
     <img src="https://github.com/Alijeyrad/Alijeyrad/assets/89392975/8dd648df-d50c-4f6b-899f-4d8fda1e4d3a" width="40" height="40" />
   </a>
   <a target="_blank" href="https://t.me/AliJulaeeRad">
