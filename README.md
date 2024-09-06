@@ -2,24 +2,6 @@
   <img src="https://github.com/Alijeyrad/Alijeyrad/assets/89392975/7102bb4d-21b8-45e0-add9-9b024ae94da8" width="300" height="300">
 </p>
 
-<h4>Hi 👋 I'm Ali Julaee Rad</h4>
-
-- Passionate software engineer
-specializing in web development.
-
-- Proficient in backend technologies such
-as Python (Django), Golang, and
-Node.js
-
-- Strong frontend
-skills in React and Next.js and various styling tools.
-
-- Eager to
-continually learn and advance in the
-field of programming.
-
-Let's build the future of the web together! 😎✌🏻
-
 <h4>
   How to reach me:
 </h4>
