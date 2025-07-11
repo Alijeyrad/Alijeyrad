@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/Alijeyrad/Alijeyrad/assets/89392975/7102bb4d-21b8-45e0-add9-9b024ae94da8" width="300" height="300">
-</p>
+<h4>
+  Hi I'm Ali
+</h4>
+<p>Golang & TypeScript Developer | Backend Systems | Full Stack | Open to Remote Projects</p>
 
 <h4>
   How to reach me:
