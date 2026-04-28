@@ -25,7 +25,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Kave** | Control Plane for Agents | Go · gRPC · SQL · Nuxt 4 |
+| **[Kave](https://github.com/kave-io/kave)** | The Control Plane for AI Agents | Go · gRPC · Vue |
 
 ---
 
